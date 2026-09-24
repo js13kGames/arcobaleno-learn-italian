@@ -1,4 +1,8 @@
 ---
+genres:
+  - educational
+  - word-games
+  - casual
 directors_cut: https://killedbyapixel.github.io/Arcobaleno/
 video: https://youtu.be/CZovHyvndqI
 # See github.com/js13kGames/hello-world for supported frontmatter
